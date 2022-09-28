@@ -2,7 +2,7 @@
 This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 12 Challenge. This challenge served as an introduction to Tableau. Topics covered included creating charts, graphs, heatmaps, views, stories, and importing data.
 
 You can view the final dashboard here:
-[Dashboard Link](https://public.tableau.com/shared/WZ4QPFMWY?:display_count=n&:origin=viz_share_link)
+[Dashboard Link](https://public.tableau.com/views/Book11_16160718505540/CitiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Overview of the Analysis
 ### Purpose
