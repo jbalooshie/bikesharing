@@ -1,5 +1,9 @@
 # Bikeshare Analysis
-[link to dashboard](https://public.tableau.com/views/Book11_16160718505540/CheckoutTimesforUsers?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 12 Challenge. This challenge served as an introduction to Tableau. Topics covered included creating charts, graphs, heatmaps, views, stories, and importing data.
+
+You can view the final dashboard here:
+[Dashboard Link](https://public.tableau.com/shared/WZ4QPFMWY?:display_count=n&:origin=viz_share_link)
+
 ## Overview of the Analysis
 ### Purpose
 The purpose of this project is to create a business case for starting a bikesharing business in Des Moines, Iowa. Using publicly available data from Citi Bike, we created seven visualizations that will help address questions potential investors might pose. These visualizations also help highlight areas of the business that might operate differently outside of New York City. 
@@ -10,25 +14,25 @@ The primary platform used in this project is Tableau. Tableau is a data visualiz
 ## Results
 Below are seven visualizations that were created to explore the feasibility of starting a bike sharing company in Des Moines, Iowa. 
 
-[Checkout Times](/images/checkout_times.PNG)
+![Checkout Times](/images/checkout_times.PNG)
 * This image shows the duration of rentals, by number of bikes rented. It can be filtered based on time of day. Right now, it shows that from 12am-1am, most trips are under 30 minutes, with the most only lasting 5 minutes. 
 
-[Checkout Times by Gender](/images/checkout_gender.PNG)
+![Checkout Times by Gender](/images/checkout_gender.PNG)
 * This image is like the previous but includes three separate lines showing the trends by gender. It can also be filtered by time of day. From 12am-1am, most riders are still only taking very short trips, but the gender of these riders is heavily skewed towards males. 
 
-[Trips by Weekday](/images/trips_weekday.PNG)
+![Trips by Weekday](/images/trips_weekday.PNG)
 * This image is a heatmap of the most popular startimes during the week. The most popular times of day are during rush hour in the morning and afternoon. 5pm - 7pm is the most consistently busy time of day. 
 
-[Trips by Weekday by Gender](/images/trips_weekday_gender.PNG)
+![Trips by Weekday by Gender](/images/trips_weekday_gender.PNG)
 * Like the previous images, this one is a heatmap of the most popular startimes during the week, broken down by gender. Both male and female riders tend to follow the same patterns, but there is a much higher proportion of male riders throughout all times of day. 
 
-[User Trips by Gender](/images/user_trips.PNG)
+![User Trips by Gender](/images/user_trips.PNG)
 * This image is a heatmap of the number of trips by user type, separated by gender. The gender gap seen in other categories is also present here. It is interesting to note that subscribers make up a much higher number of riders for both males and females.
 
-[Top Starting Location](/images/start_locations.PNG)
+![Top Starting Location](/images/start_locations.PNG)
 * This image shows the most popular starting locations for riders. In New York, this is around Midtown and Lower Manhattan. This tells us that the most popular locations have a high amount of tourist and commuter traffic. The more residential areas in Queens have less data points, indicating that bike share might not be a popular way for just getting around the neighborhood. 
 
-[August Peak Hours](/images/august_peak.PNG)
+![August Peak Hours](/images/august_peak.PNG)
 * This is a bar graph showing the most popular start times. This reinforces that rush hour times are the busiest for the business. It also makes it clearer that the least busy times are 3-5am. 
 
 ## Summary
